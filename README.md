@@ -41,6 +41,11 @@ LibraryManagementSystem/
 - **Book** → Book model class
 - **LibraryServices** → Handles library operations
 
+Author
+
+Gagan Prajapati
+
+
 ## How to Run
 1. Clone repository:
 ```bash
@@ -53,9 +58,5 @@ User login system
 Book issue/return functionality
 Database integration
 GUI version using Java Swing / JavaFX
-Author
-
-Gagan Prajapati
-
 
 GitHub ke liye ye clean professional README hai ✅
